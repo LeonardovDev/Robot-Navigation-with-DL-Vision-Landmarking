@@ -1,8 +1,3 @@
-#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# Modified code by Abhi Ravikumar (abhi.ravikumar@protonmail.com)
-# Graduate Student @ The University of Texas at San Antonio, TX U.S.A
-# Research Assistant @ Autonomous Control & Engineering (ACE) Laboratory at UTSA
-#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # Copyright 2015 The TensorFlow Authors. All Rights Reserved.
 #

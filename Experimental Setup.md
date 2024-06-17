@@ -20,4 +20,3 @@ are positioned at different locations within the test bed. A picture of test bed
   <image src = "Images/testbed.JPG" width="50%"
 </p>
 
-Next section is [Project Implementation](https://github.com/AbhiRP/Autonomous-Robot-Navigation-using-Deep-Learning-Vision-Landmark-Framework/blob/master/Project%20Implementation.md) where the project will be explained throughly. 
